@@ -9,6 +9,6 @@ require (
 	github.com/libp2p/go-libp2p-core v0.3.0 // indirect
 	github.com/multiformats/go-multiaddr-net v0.1.3 // indirect
 	github.com/urfave/cli/v2 v2.2.0
-	golang.org/x/crypto v0.0.0-20190618222545-ea8f1a30c443 // indirect
-	google.golang.org/grpc v1.28.0
+	golang.org/x/crypto v0.17.0 // indirect
+	google.golang.org/grpc v1.56.3
 )
